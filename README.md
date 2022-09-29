@@ -42,3 +42,6 @@ Ozkaya, M.2019 Dec 13. Layered Architecture with ASP.NET Core, Entity Framework 
 
 ###### no10:
 Microsoft.2022 Jun 3. Tutorial: Read related data - ASP.NET MVC with EF Core. https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/read-related-data?view=aspnetcore-6.0 Date of access: 25 Sep. 2022.
+
+###### no11:
+HAYTAM, Z.2019 MARCH 14. REPOSITORY PATTERN - GENERIC ASYNC REPOSITORIES IN C#. https://blog.zhaytam.com/2019/03/14/generic-repository-pattern-csharp/ Date of access: 25 Sep. 2022.
